@@ -24,4 +24,4 @@ NOTE: Anything you download in this folder will NOT be detected by Windows Defen
 ⋅⋅1. Ordered sub-list
 4. And another item.
 
-   You can have properly indented paragraphs within lis
+   You can have properly indented paragraphs within lists
