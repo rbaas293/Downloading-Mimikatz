@@ -12,6 +12,8 @@ Name it "Windows Defender Bypass"
 5. Click "Folder"
 6. Choose the "Windows Defender Bypass" folder in the directory you chose
 
+⋅⋅⋅Windows Defender should not quarantine mimikatz now.
+
 # Download Mimikatz
 
 1. First ordered list item
