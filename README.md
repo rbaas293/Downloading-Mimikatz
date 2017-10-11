@@ -1,10 +1,9 @@
 # Downloading-Mimikatz
 How to get Mimikatz on windows 10 without defender quarantining it.
 
-### Create a Windows Defender Bypass folder
-Create a folder named `WD-Bypass` in a directory of your choosing, I picked my `Downloads` Folder.
 
-### Fake Out Windows Defender
+## Fake Out Windows Defender
+Create a folder named `WD-Bypass` in a directory of your choosing, I picked my `Downloads` Folder.
 
 1. Search and go to `Virus & threat protection`
 2. Go to `Virus & threat protection settings` 
