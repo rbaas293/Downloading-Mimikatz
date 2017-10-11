@@ -16,7 +16,7 @@ How to get Mimikatz on windows 10 without defender quarantining it.
 
 # Download Mimikatz
 
-1. Download the zip file of the latest release: https://github.com/gentilkiwi/mimikatz/releases/tag/2.1.1-20170813
+1. Download the zip file of the latest release [https://github.com/gentilkiwi/mimikatz/releases/tag/2.1.1-20170813][Here] **You must Right Click and  `Save link As...`**
 2. Extract it in your `WD-Bypass` folder 
  
 More to come at the meeting!
