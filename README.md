@@ -5,7 +5,7 @@ How to get Mimikatz on windows 10 without defender quarantining it.
 ## Fake Out Windows Defender
 Create a folder named `WD-Bypass` in a directory of your choosing, I picked my `Downloads` Folder.
 
-1. Search and go to `Virus & threat protection`
+1. Search in windows for `Virus & threat protection` and go to it
 2. Go to `Virus & threat protection settings` 
 3. Scroll Down to `Exclusions` and click `Add or remove exclusions`
 4. Click `+ Add an exclusion`
