@@ -17,6 +17,6 @@ NOTE: Anything you download in this folder will NOT be detected by Windows Defen
 # Download Mimikatz
 
 1. Download the zip file of the latest release: https://github.com/gentilkiwi/mimikatz/releases/tag/2.1.1-20170813
-2. extract it in your `WD-Bypass` Folder 
+2. Extract it in your `WD-Bypass` Folder 
  
 More to come at the meeting!
