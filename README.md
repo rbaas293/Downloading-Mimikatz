@@ -12,7 +12,7 @@ How to get Mimikatz on windows 10 without defender quarantining it.
 5. Click `Folder`
 6. Choose the `WD-Bypass` folder in the directory that you chose
 
-**NOTE:** Anything you download in this folder will NOT be detected by Windows Defender, so be carful in the future.
+**NOTE:** Anything you download in this folder will **NOT** be detected by Windows Defender, so be careful in the future.
 
 # Download Mimikatz
 
